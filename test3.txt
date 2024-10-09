@@ -1,0 +1,6 @@
+this is a text 3 file for practise git and github.....
+
+modified this 
+  
+  this is in untraced status 
+  i should update it
